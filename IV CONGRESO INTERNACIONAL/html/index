@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+    <img src="../recource/img/0. LOGOS INSTITUCIONALES/bannerIVCongareso.png" alt="" class="img-fluid">
+    <nav class="navbar navbar-expand-lg" style="background-color: rgb(22, 22, 22);">    
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" > 
+          <span><img src="../recource/img/2.ICONOS/lista.png" alt=""></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">Inicio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Conferencistas.html">Conferencias Centrales</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Objetivos.html">Objetivo</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="publicaciones.html">Publicaciones</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="conferencistasSimposio.html">VII Simposio de Ingeniería de Sistemas</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="feriaDiseño.html">Feria del Diseño Ingeneria industrial</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">IV feria de ciencias Basicas</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="">II Articulados</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Ubicacion.html">Ubicación</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <div class="padding">
+            <div class="contenedor">
+                <label>
+                    El IV Congreso Internacional de la Ingeniería del Diseño, es un espacio en el cual se comparte los avances en tecnologías emergentes y sostenible en diversos contextos. De igual forma es un espacio de reflexión y socialización de experiencias en el campo investigativo y de desarrollo tecnológico.
+                </label>
+                <label>
+                    El IV Congreso Internacional de la Ingeniería del Diseño, permite que estudiantes y docentes de diferentes comunidades académicas se reúnan con el fin de compartir y promover el estudio de las ciencias básicas, ingenieriles y de diseño industrial.
+                </label>
+                <label>
+                    Además, se propende por la construcción de la comunidad académica en función de la articulación de la teoría con la práctica, hacia el cual convergen todos los saberes de las diferentes disciplinas involucras en este.
+                </label>
+            </div>  
+       </div>
+      <div class="padding">
+        <div class="contenedor">
+            <p style="display: flex; justify-content: center; font-size: 30px">Dirigido</p>
+            <label>
+                Las Facultades de ingenierías, estudiantes, semilleros de investigación, investigadores, docentes y demás personal interesado en los temas desarrollados.
+            </label>
+        </div>
+      </div>
+      <div class="padding">
+        <div class="contenedor">
+            <p style="display: flex; justify-content: center; font-size: 30px">Ejes temáticos</p>
+            <ul>
+                <li>Gestión integral de la calidad</li>
+                <li>Ciencia de datos</li>
+                <li>Inteligencia Artificial</li>
+                <li>Integración de soluciones tecnológicas en la industria 4.0</li>
+                <li>Emprendimiento innovador desde el eco-diseño</li>
+                <li>Ciencias básicas en el desarrollo sostenible</li>
+                <li>Enseñanza de la ingeniería y el diseño</li>
+                <li>Ciudades inteligentes y sostenibilidad</li>
+            </ul>
+        </div>
+      </div>   
+      <section class="page-section portfolio">
+            <div class="contenedor2">
+                <p style="display: flex; justify-content: center; font-size: 30px">Aliados</p>
+            </div>
+        <div class="container">
+            <div class="divider-custom">
+                <div class="divider-custom-line"></div>
+                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                <div class="divider-custom-line"></div>
+            </div>
+            <div class="row justify-content-center">
+                <!-- Portfolio Item 1-->
+                <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="portfolio-item mx-auto">
+                        <img class="img-fluid imgaliados" src="../recource/img/0. LOGOS INSTITUCIONALES/OAS_Seal_ESP_Principal_.gif" alt="..." style="background-color: white; padding: 10px; padding-top: 28px; "/>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="portfolio-item mx-auto">
+                        <img class="img-fluid imgaliados" src="../recource/img/0. LOGOS INSTITUCIONALES/Logos UNMSM/escudo a colores_Mesa de trabajo 1.png" alt="..." style="background-color: white;"/>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="portfolio-item mx-auto">
+                        <img class="img-fluid imgaliados" src="../recource/img/0. LOGOS INSTITUCIONALES/IDTOLU.png" alt="..." style="background-color: white;"/>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="portfolio-item mx-auto">
+                        <img class="img-fluid imgaliados" src="../recource/img/0. LOGOS INSTITUCIONALES/Universidad de queretaro.png" alt="..." style="background-color: white; padding-top: 30px;"/>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="portfolio-item mx-auto">
+                        <img class="img-fluid imgaliados" src="../recource/img/0. LOGOS INSTITUCIONALES/GRUPO PERTI.png" alt="..." style="background-color: white; padding-top: 28px;"/>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="portfolio-item mx-auto">
+                        <img class="img-fluid imgaliados" src="../recource/img/0. LOGOS INSTITUCIONALES/Logos-Klustomer1.png" alt="..." style="background-color: white; padding-bottom: 30px;"/>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <section class="page-section portfolio">
+        <div class="contenedor2 ">
+            <p style="display: flex; justify-content: center; font-size: 30px">Inscribirse</p>
+        </div>
+    </section>
+        <div>
+            <ul style="text-align: center;">
+                <li style="color: white;"><a href="https://sistema.cecar.edu.co/sgacampus/inscripciones.jsp#home" class="redessciales">
+                    <img width="80px" class="img-fluid imgredes" src="../recource/img/2.ICONOS/registrar.png" alt="inscribirse"/>
+                    <label style="color: black; font-family: Arial, Helvetica, sans-serif;">Inscribirse</label>
+                </a></li>
+                <li style="color: white;" > <a href="Instructivo-para-inscripción-y-pago-en-línea-a-eventos-y-cursos-cortos.html"><label >Pasos para inscribirse</label></a></li>
+            </ul>
+        </div>           
+    </div>
+</div>
+<div class="contenedorfinal gridcontenedor">
+        <div class="griddiv1">
+            <label>Organizado: &emsp;</label>
+            <img src="../recource/img/0. LOGOS INSTITUCIONALES/logocecar35.png" class="img-fluid imgorganizado">
+        </div>
+        <div class="griddiv2">
+            <ul>
+                <li>Ingeniería Industrial.</li>
+                <li>Ingeniería de Sistemas.</li>
+                <li>Diseño Industrual.</li>
+                <li>Departamento de Ciencias Basicas.</li>
+            </ul>
+        </div>
+        <div class="griddiv3">
+            <section class="page-section portfolio">
+            <div class="container">
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://es-la.facebook.com/unicecar/" class="redessciales">
+                                <img class="img-fluid imgredes" src="../recource/img/2.ICONOS/facebook.png" alt="Facebook"/>
+                                <label>Facebook</label>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://www.instagram.com/unicecar/?hl=es" class="redessciales">
+                                <img class="img-fluid imgredes" src="../recource/img/2.ICONOS/instagram.png" alt="instagram"/>
+                                <label>Instagram</label>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://www.youtube.com/c/unicecar" class="redessciales">
+                                <img class="img-fluid imgredes" src="../recource/img/2.ICONOS/youtube.png" alt="youtube"/>
+                                <p>Youtube</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </div>
+    </div>
+</body>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</html>
