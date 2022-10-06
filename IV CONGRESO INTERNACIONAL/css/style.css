@@ -1,0 +1,139 @@
+    body{
+         background-color: #ffffff;
+         margin-left: 50px ;
+         margin-right: 50px;
+     }
+     .flexcontainerdiv{
+         display: flex;
+         justify-content: space-around;
+         background-color: rgba(1,46,65,255);
+         padding: 15px 0px;
+     }
+     .flexcontainerdiv div{
+         display: flex;
+         flex-direction: column;
+     }
+     .textoHeader{
+         font-family: Arial, Helvetica, sans-serif;
+         color: rgba(217,224,33,255);
+         font-size: 45px;
+         text-align: center;
+     }
+     .textoHeader2{
+         font-family: Arial, Helvetica, sans-serif;
+         color: rgba(217,224,33,255);
+         font-size: 30px;
+         text-align: center;
+
+     }
+     .textoHeader3{
+         font-family: Arial, Helvetica, sans-serif;
+         color: rgba(217,224,33,255);
+         font-size: 20px;
+         text-align: center;
+     }
+     .nav-link{
+         color: white;
+     }
+     .nav-link:hover{
+         color: rgba(217,224,33,255);
+     }
+     .padding{
+         margin: 10px 15px;
+     }
+     .contenedor{
+         color: white;
+         padding: 10px 15px;
+         text-align: justify;
+         background-color: #01A89E;
+         border-radius: 15px;
+     }
+     .contenedor1{
+        border-radius: 15px;
+    }
+     .contenedor2{
+        padding: 10px 50px 10px 50px;
+        text-align: center;
+         background-color: #2B565F;
+         color: white;
+     }
+     .contenedor3{
+        background-color: #ffffff;
+        color: black;
+     }
+     .contenedor4{
+        background-color: #ffffff;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: justify;
+        font-size: 20px;
+     }
+     .imgaliados{
+         width: 300px;
+         height: 100px;
+         border-radius: 15px;
+         background-color: white;
+     }
+     .contenedorfinal{
+         background-color: #2B565F;
+         color: white;
+         padding: 0px 15px;
+     }
+     .gridcontenedor{
+             display: grid;
+             grid-template-areas:'organizado carreras redes';
+     }
+     .griddiv1{
+         grid-area: organizado;
+         color: white;
+         padding-top: 20px;
+     }
+     .griddiv2{
+         grid-area: carreras;
+         padding-top: 32px;
+     }
+     .griddiv3{
+         grid-area: redes;
+         display: flex;
+         justify-content: center;
+         padding-top: 40px;
+     }
+     .imgorganizado{
+         width: 600px;
+         height: 100px;
+         border-radius: 15px;
+     }
+     .imgredes{
+         max-width: 80px;
+         border-radius: 15px;
+     }
+     .redessciales{
+         color: white;
+         text-decoration: none;
+     }
+     .redessciales:hover{
+         color: white;
+         font-weight: bold;
+         text-decoration: none;
+     }
+   
+    .gridUbicacion{
+            display: grid;
+            align-content: center;
+            justify-items: center;
+            grid-template-areas:'ubicacion1 ubicacion2';
+    }
+    .griddivuno{
+        grid-area: ubicacion1;
+        padding-top: 20px;
+    }
+    .griddivdos{
+        grid-area: ubicacion2;
+        padding-top: 20px;
+    }
+    .ubicaciontext{
+        text-align: center;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+
